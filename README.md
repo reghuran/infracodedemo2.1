@@ -57,7 +57,7 @@ Production:
 docker-compose  up
 ```
 
-Dev:
+Dev
 ```
 docker-compose -f docker-compose.dev.yml up --build
 ```
